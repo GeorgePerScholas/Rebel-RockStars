@@ -1,0 +1,4 @@
+1) create file 
+2) Add it to in deckone
+3) Commit 
+4) Push  - all origin 
